@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "matamatika", "matamatika\matamatika.pyproj", "{89D77B2E-37EE-49F6-95B8-64598A5E44C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D77B2E-37EE-49F6-95B8-64598A5E44C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D77B2E-37EE-49F6-95B8-64598A5E44C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF77FC5-3BC7-4370-AA9F-301BC4CA7468}
+	EndGlobalSection
+EndGlobal
